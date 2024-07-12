@@ -104,9 +104,9 @@ Here are challenges to clear the theme of session and that might consider asking
     
 2. **<mark>AWS Network Manager</mark>**: AWS Network Manager manages and monitors global networks, making it ideal for organizations with multiple AWS accounts and regions.
     
-3. **<mark>Network Access Analyzer</mark>**: **Network Access Analyzer:** Analyzes network configurations to help identify potential security risks and misconfigurations.
+3. **<mark>Network Access Analyzer</mark>**: Analyzes network configurations to help identify potential security risks and misconfigurations.
     
-4. **<mark>Traffic Mirroring</mark>**<mark>: </mark> **<mark>Traffic Mirroring</mark>:** Mirrors network traffic to analysis appliances, useful for deep packet inspection and troubleshooting.
+4. **<mark>Traffic Mirroring</mark>**<mark>: </mark> Mirrors network traffic to analysis appliances, useful for deep packet inspection and troubleshooting.
     
 5. **<mark>CloudWatch</mark>**: Collects and monitors metrics and logs by providing dashboards, alarms, and insights for network performance and security.
     
@@ -134,7 +134,7 @@ Here are challenges to clear the theme of session and that might consider asking
     
 3. **<mark>Understanding network traffic</mark>:** Identifying top traffic sources, analyzing traffic patterns and protocols, and detecting anomalous behavior.
     
-4. **<mark>Cost optimization</mark>:** Monitoring **traffic** to control costs and understanding cost contributions from network traffic.
+4. **<mark>Cost optimization</mark>:** Monitoring traffic to control costs and understanding cost contributions from network traffic.
     
 
 **Q.5 How can I improve my network's observability on AWS?**
