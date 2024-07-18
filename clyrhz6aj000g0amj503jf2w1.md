@@ -4,7 +4,7 @@ datePublished: Thu Jul 18 2024 16:40:26 GMT+0000 (Coordinated Universal Time)
 cuid: clyrhz6aj000g0amj503jf2w1
 slug: master-serverless-solutions-architect-session-9
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721315577153/aec2c80d-e9e1-46a4-b306-72bb43cf2df8.jpeg
-tags: aws, devops, aws-lambda, 2articles1week, aws-certified-solutions-architect-associate, devops-articles, devops-journey
+tags: aws, aws-lambda, 2articles1week, aws-certified-solutions-architect-associate, devops-articles
 
 ---
 
