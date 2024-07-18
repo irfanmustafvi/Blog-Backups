@@ -4,7 +4,7 @@ datePublished: Thu Jul 18 2024 16:40:26 GMT+0000 (Coordinated Universal Time)
 cuid: clyrhz6aj000g0amj503jf2w1
 slug: master-serverless-solutions-architect-session-9
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721315577153/aec2c80d-e9e1-46a4-b306-72bb43cf2df8.jpeg
-tags: aws, devops, aws-lambda, aws-certified-solutions-architect-associate, devops-articles, devops-journey
+tags: aws, devops, aws-lambda, 2articles1week, aws-certified-solutions-architect-associate, devops-articles, devops-journey
 
 ---
 
@@ -72,15 +72,15 @@ The troubleshooting of serverless architectures, focusing on identifying and res
 
 <mark>ANSWER</mark>: Here is an example of an event-driven architecture using AWS services:
 
-1. **/Event Source**: An S3 bucket receives a file upload, which triggers an event.
+* **Event Source**: An S3 bucket receives a file upload, which triggers an event.
     
-2. **Event Router**: The event is captured by Amazon EventBridge, which routes it based on predefined rules.
+* **Event Router**: The event is captured by Amazon EventBridge, which routes it based on predefined rules.
     
-3. **Event Processing**: The event triggers an AWS Lambda function to process the file.
+* **Event Processing**: The event triggers an AWS Lambda function to process the file.
     
-4. **Data Storage**: The processed data is stored in DynamoDB.
+* **Data Storage**: The processed data is stored in DynamoDB.
     
-5. **Notification**: Amazon SNS sends a notification about the processed data.
+* **Notification**: Amazon SNS sends a notification about the processed data.
     
 
 <mark>Q.2</mark> What are the main benefits of using serverless architecture?
