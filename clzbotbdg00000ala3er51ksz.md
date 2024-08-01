@@ -154,4 +154,6 @@ Here are some common CLI commands for managing files and directories in Linux:
 
 ### 8\. Summary of Article
 
-This article provides an in-depth overview of essential Linux concepts and commands, covering directory structure, basic command-line interface (CLI) operations, user permissions, system monitoring, and file management. Key sections include an introduction to user and administrative commands, navigating directories, understanding system files, managing device drivers and configuration files, leveraging the CLI for productivity, and handling common user management tasks. Practical examples and command explanations aim to enhance understanding and efficiency in using Linux.
+This article provides an in-depth overview of essential Linux concepts and commands, covering directory structure, basic command-line interface (CLI) operations, user permissions, system monitoring, and file management. Key sections include an introduction to user and administrative commands, navigating directories, understanding system files, managing device drivers and configuration files, leveraging the CLI for productivity, and handling common user management tasks. Practical examples and command explanations aim to enhance understanding and efficiency in using Linux. All credit goes to sir @BabarZahoor.
+
+%[https://www.youtube.com/live/RZo45sFSSvE?si=z_VLtgMpzbBrvrr8]
