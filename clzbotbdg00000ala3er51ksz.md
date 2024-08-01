@@ -59,7 +59,7 @@ The session was conducted by @BabarZahoor on CLI, Directory Structure and Basic 
 * **System configuration and logs:** Configuration files are in the /etc directory, and system logs with system processes also here.
     
 
-### Linux Environment
+### 4\. Linux Environment
 
 By the following way files and directories are managed in linux environment.
 
@@ -80,9 +80,9 @@ By the following way files and directories are managed in linux environment.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1722538556076/e77534c7-78a2-4bd4-a90e-fc81def88e21.jpeg align="center")
 
-### 4\. Linux CLI
+### 5\. Linux CLI
 
- The Command Line Interface (CLI) in Linux significantly enhances productivity in several ways:
+The Command Line Interface (CLI) in Linux significantly enhances productivity in several ways:
 
 * Speed: CLI commands are typically faster to execute than navigating through graphical user interfaces (GUIs).
     
@@ -109,13 +109,13 @@ By the following way files and directories are managed in linux environment.
 * Piping and redirection: Output from one command can be directly used as input for another.
     
 
-### 5\. Users Management
+### 6\. Users Management
 
 The following table describes the privileges to Administrator (Root) and Regular users.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1722539908657/0c484f90-fa67-42e6-b8dc-13649cc75ce3.jpeg align="center")
 
-### 6\. Some common Commands used in CLI terminal
+### 7\. Some common Commands used in CLI terminal
 
 Here are some common CLI commands for managing files and directories in Linux:
 
@@ -152,6 +152,6 @@ Here are some common CLI commands for managing files and directories in Linux:
 * df: Display disk space usage     Example: df -h
     
 
-### 7\. Summary of Article
+### 8\. Summary of Article
 
 This article provides an in-depth overview of essential Linux concepts and commands, covering directory structure, basic command-line interface (CLI) operations, user permissions, system monitoring, and file management. Key sections include an introduction to user and administrative commands, navigating directories, understanding system files, managing device drivers and configuration files, leveraging the CLI for productivity, and handling common user management tasks. Practical examples and command explanations aim to enhance understanding and efficiency in using Linux.
