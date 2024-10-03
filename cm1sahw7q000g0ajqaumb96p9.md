@@ -147,7 +147,7 @@ Let’s walk through a project that sets up **VPC Peering** between two VPCs in 
 
 ### 📈 **Testing the VPC Peering Connection**
 
-Once you have set up the peering connection and routes, launch instances in both VPC-1 and VPC-2.
+Once set up completed of peering connection and routes, then launch and ping instances in both VPC-1 and VPC-2.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727896123230/0ab3681e-d48b-4eff-9a37-e1428b3c8f81.jpeg align="center")
 
@@ -176,7 +176,7 @@ Once you have set up the peering connection and routes, launch instances in both
 
 ### 🔧 **Scaling VPC Peering for Complex Architectures**
 
-As your infrastructure grows, managing multiple VPC Peering connections can become complex. For large-scale architectures, **AWS Transit Gateway** offers a solution by acting as a central hub for **VPC-to-VPC communication**. Instead of managing many peer connections, all VPCs connect to the **Transit Gateway**, simplifying the process.
+As the infrastructure grows, managing multiple VPC Peering connections can become complex. For large-scale architectures, **AWS Transit Gateway** offers a solution by acting as a central hub for **VPC-to-VPC communication**. Instead of managing many peer connections, all VPCs connect to the **Transit Gateway**, simplifying the process.
 
 # 🌟 **Conclusion**
 
