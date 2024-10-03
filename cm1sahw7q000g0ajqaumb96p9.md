@@ -126,14 +126,14 @@ Let’s walk through a project that sets up **VPC Peering** between two VPCs in 
 
 #### 4️⃣ **Configure Route Tables**
 
-1. In **VPC-1**, update the **Route Table** to route traffic destined for `10.1.0.0/16` (VPC-2) through the Peering Connection.
+* In **VPC-1**, update the **Route Table** to route traffic destined for `10.1.0.0/16` (VPC-2) through the Peering Connection.
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727895971714/77163362-7773-49b6-85c2-4e1ccee384ca.jpeg align="center")
 
-1. In **VPC-2**, update the **Route Table** to route traffic destined for `10.0.0.0/16` (VPC-1) through the Peering Connection.
+* In **VPC-2**, update the **Route Table** to route traffic destined for `10.0.0.0/16` (VPC-1) through the Peering Connection.
     
-2. Make the subnets involved have the appropriate route entries to communicate.
+* Make the subnets involved have the appropriate route entries to communicate.
     
 
 #### 5️⃣ **Configure Security Groups and Network ACLs**
@@ -142,11 +142,8 @@ Let’s walk through a project that sets up **VPC Peering** between two VPCs in 
     
     * Example: Allow SSH (port 22) from the CIDR block `10.1.0.0/16` in VPC-2 to instances in VPC-1.
         
-
-1. As per requirement, modify **Network ACLs** for additional layer of security at the subnet level.
+2. As per requirement, modify **Network ACLs** for additional layer of security at the subnet level.
     
-
----
 
 ### 📈 **Testing the VPC Peering Connection**
 
