@@ -5,7 +5,7 @@ seoDescription: "A guide to mastering AWS VPC and VPC Peering for building scala
 datePublished: Wed Oct 02 2024 19:57:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm1sahw7q000g0ajqaumb96p9
 slug: understanding-aws-vpc-and-vpc-peering
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727898616743/f7bb49e7-dc95-46fb-b1ec-d92c788e06eb.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727931596531/6442cdb0-470c-400b-a39f-d104a0c19a41.png
 tags: aws, aws-vpc, vpc-peering, tws, cloudwhistelers
 
 ---
