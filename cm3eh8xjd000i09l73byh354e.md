@@ -6,6 +6,7 @@ seoDescription: "Learn essential Linux command line and system administration sk
 datePublished: Tue Nov 12 2024 13:17:33 GMT+0000 (Coordinated Universal Time)
 cuid: cm3eh8xjd000i09l73byh354e
 slug: mastering-the-linux-command-line-a-10-day-journey-with-red-hat-linux
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/f547a69c750fd8ef1515e87aa2812ad4.jpeg
 tags: sysadmin, linux, udemy, redhat, tech-journey, linuxadministrator
 
 ---
