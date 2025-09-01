@@ -1,2 +1,2 @@
-# Blog-Backups
+# Blog
 Repo for Blogs Backup
